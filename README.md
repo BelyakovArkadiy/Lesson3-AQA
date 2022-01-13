@@ -1,3 +1,3 @@
 # Kolesa upgrade
-# Kolesa Upgrade 2
-###Kolesa Academy
+# Kolesa Upgrade 3
+###Kolesa Academy 3
